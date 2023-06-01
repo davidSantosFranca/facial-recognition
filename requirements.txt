@@ -6,3 +6,4 @@ face-recognition
 face-recognition-models 
 opencv-python 
 Pillow
+sklearn
