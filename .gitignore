@@ -3,3 +3,5 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 dataset
 lfw
+laura_images
+laura_images_no_watermark
